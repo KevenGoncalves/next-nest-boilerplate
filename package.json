@@ -1,0 +1,17 @@
+{
+  "name": "next-nest-boilerplate",
+  "version": "1.0.0",
+  "description": "Next and Nest Boilerplate",
+  "scripts": {
+    "dev": "pnpm --stream -r dev",
+    "start": "pnpm --stream -r start",
+    "lint": "pnpm --stream -r lint",
+    "build": "pnpm --stream -r build"
+  },
+  "keywords": [
+    "next",
+    "nest"
+  ],
+  "author": "Keven Gonçalves",
+  "license": "ISC"
+}
